@@ -1,1 +1,1 @@
-# Recipe-Journey
+# Recipes
